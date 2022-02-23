@@ -1,5 +1,4 @@
 - id: npmtest
   name: node.js npm run test
-  entry: npm
+  entry: npm run test
   language: node
-  args: [run, test]

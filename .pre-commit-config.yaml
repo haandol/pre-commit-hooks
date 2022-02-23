@@ -1,5 +1,5 @@
 repos:
 - repo: https://github.com/haandol/pre-commit-hooks
-  rev: main
+  rev: e495f191d3ca73d142c0b96221681465a0f8d9ac
   hooks:
   - id: npmtest
