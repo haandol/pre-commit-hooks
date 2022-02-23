@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/haandol/pre-commit-hooks#readme",
   "dependencies": {
-    "jest": "^27.5.1"
   }
 }
