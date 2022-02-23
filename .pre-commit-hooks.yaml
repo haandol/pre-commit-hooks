@@ -1,4 +1,5 @@
 - id: npmtest
-  name: node.js npm run test
-  entry: npm run test
+  name: node.js npm test
+  entry: npm test
   language: node
+  pass_filenames: false
