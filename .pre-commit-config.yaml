@@ -2,4 +2,4 @@ repos:
 - repo: https://github.com/haandol/pre-commit-hooks
   rev: main
   hooks:
-  - id: npmtest
+  - id: jest

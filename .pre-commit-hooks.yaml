@@ -1,5 +1,5 @@
-- id: npmtest
-  name: NodeJS run npm test
-  entry: npm
-  language: script
-  args: [run, test]
+- id: jest
+  name: node.js run jest
+  entry: npx
+  language: node
+  args: [jest]
